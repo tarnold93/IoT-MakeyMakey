@@ -4,10 +4,6 @@ h1, p {
   margin-right: 30%;
 }
 
-h1 {
-  padding-top: 15%;
-}
-
 p {
   font-size: 25px;
 }
@@ -19,10 +15,22 @@ body {
           
 }
 
+img {
+    width: 45%;
+    height: 25%;
+    display: block;
+    margin: 10% auto 0 auto;
+    padding-top: 5%;
+}
+
 .newImg {
   background: url("https://images2.alphacoders.com/247/247742.jpg")no-repeat 50% 50% fixed;
   background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
+}
+
+.newH1 {
+    padding-top: 25%;
 }
