@@ -1,0 +1,27 @@
+h1, p {
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+h1 {
+  padding-top: 15%;
+}
+
+p {
+  font-size: 25px;
+}
+
+body {
+  background: #c2e59c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #c2e59c , #64b3f4); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #c2e59c , #64b3f4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */       
+}
+
+.newImg {
+  background: url("https://images2.alphacoders.com/247/247742.jpg")no-repeat 50% 50% fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+}
