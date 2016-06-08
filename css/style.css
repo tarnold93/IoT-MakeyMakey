@@ -19,7 +19,7 @@ img {
     width: 45%;
     height: 25%;
     display: block;
-    margin: 10% auto 0 auto;
+    margin: 5% auto 0 auto;
     padding-top: 5%;
 }
 
@@ -32,5 +32,5 @@ img {
 }
 
 .newH1 {
-    padding-top: 25%;
+    padding-top: 15%;
 }
